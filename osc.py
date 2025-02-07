@@ -1,5 +1,5 @@
 #you must run this in terminal or else matplotlib will not do its graphing thing
-#cd downloads then cd python-oscillioscope then python3 osc.py
+#cd downloads then cd python-oscillioscope-main then python3 osc.py
 #you also need pyaudio and matplotlib
 #just run this on my computer at this point its not worth it
 
